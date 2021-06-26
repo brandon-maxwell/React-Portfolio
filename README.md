@@ -5,7 +5,7 @@
 This repository include my portfolio which includes links to my projects and includes information about me and ways to contact me.
 
 ## Link to Page
-https://brandon-maxwell.github.io/My_Portfolio/
+https://brandon-maxwell.github.io/React-Portfolio/
 
 ## Portfolio Example
 ![project example](src/assets/images/portfolio-gif.gif)

@@ -61,7 +61,7 @@ function Project() {
                     <div className="row">
                     <div className="flex-item Project-6 col s12 m12 l10 offset-l1">
                         <div className="hoverTag">
-                            <h4>Kiskis</h4>
+                            <h4>Employee Directory</h4>
                             <h5>Full-Stack with React</h5>
                             <a href="https://brandon-maxwell.github.io/Employee-Directory/" className="waves-effect waves-light btn-small">Visit Site</a>
                             <a href="https://github.com/brandon-maxwell/Employee-Directory" className="waves-effect waves-light btn-small">See on GitHub</a>
