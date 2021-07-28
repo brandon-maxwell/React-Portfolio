@@ -139,22 +139,22 @@ h2 {
 }
 
 .Project-1 {
-    background-image: url("../images/kiskis_screenshot.png");
+    background-image: url("../images/growr-screenshot.png");
     background-size: cover;
 }
 
 .Project-2 {
-    background-image: url("../images/brew-me-screenshot.png");
+    background-image: url("../images/kiskis_screenshot.png");
     background-size: cover;
 }
 
 .Project-3 {
-    background-image: url("../images/weather-screenshot.png");
+    background-image: url("../images/brew-me-screenshot.png");
     background-position: center;
 }
 
 .Project-4 {
-    background-image: url("../images/workday-scheduler-screenshot.png");
+    background-image: url("../images/Screenshot.png");
     background-position: center;
 }
 
@@ -163,7 +163,7 @@ h2 {
 }
 
 .Project-6 {
-    background-image: url("../images/Screenshot.png");
+    background-image: url("../images/weather-screenshot.png");
 }
 
 .flex-item:hover {
